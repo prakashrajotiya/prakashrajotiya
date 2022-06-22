@@ -1,4 +1,4 @@
-# - 👋 Hi, I’m @prakashrajotiya
+# - 👋 Hi, I’m Prakash Kumar
 ### improve myselft every day
 - 👀 I’m interested in Front End Development - Javascript, Vue, React
 - 🌱 I’m currently learning 
