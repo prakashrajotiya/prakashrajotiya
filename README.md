@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning 
 - 📫 The best way to reach me over is [Linkedin](https://in.linkedin.com/in/prakash-rajotiya-3533b67b).
 
-# About Me
+### About Me
 I am a frontend developer with focus on quality products. I build personal projects during my free time.
 
 
