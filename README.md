@@ -1,5 +1,5 @@
 # - 👋 Hi, I’m Prakash Kumar
-### improve myselft every day
+### improve myself every day
 - 👀 I’m interested in Front End Development - Javascript, Vue, React
 - 🌱 I’m currently learning 
 - 📫 The best way to reach me over is [Linkedin](https://in.linkedin.com/in/prakash-rajotiya-3533b67b).
